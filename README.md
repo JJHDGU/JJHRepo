@@ -4,4 +4,9 @@
     - author: junhui jeong  
     - subject: OSS
     - 장소: 다향관
+
+# OSSPrac
+fetch & merge
+A  
+B  
     
