@@ -8,8 +8,10 @@
 # OSSPrac
 fetch & merge
 A  
-B
-C
-D
+B  
+C  
+D  
 E  
-    
+F  
+G  
+HI  
