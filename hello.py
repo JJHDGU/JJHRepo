@@ -1,1 +1,2 @@
 pirnt("hello")
+print("wrold")
