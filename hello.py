@@ -1,2 +1,2 @@
-pirnt("hello")
-print("wrold")
+pirnt("hello junhee jeong!")
+
